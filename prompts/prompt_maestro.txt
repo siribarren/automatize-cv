@@ -1,0 +1,27 @@
+Analiza el siguiente CV en relación a la ficha de perfil profesional:
+
+CV:
+{{CV}}
+
+Ficha del perfil solicitado:
+{{FICHA}}
+
+Por favor entrega una evaluación estructurada con este formato:
+
+% de Match: (número entre 0 y 100)
+
+Puntos débiles:
+- (listar)
+
+Tabla de habilidades:
+| Habilidad | Nivel candidato | Nivel requerido | Cumple (Sí/No) |
+
+Resumen profesional:
+...
+
+Experiencia laboral:
+...
+
+Carta de presentación:
+...
+
